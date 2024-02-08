@@ -1,0 +1,6 @@
+cffi==1.16.0
+cryptography==42.0.2
+keyboard==0.13.5
+pycparser==2.21
+pyfiglet==1.0.2
+pygame==2.5.2
